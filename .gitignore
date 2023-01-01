@@ -1,0 +1,35 @@
+# Never uncomment this
+batch-maven-*gpg*
+maven.properties
+
+# Standard ignores
+
+.DS_Store
+local.properties
+build
+.gradle
+javadoc
+public-sdk/Batch.aar
+public-sdk/Batch.aar.asc
+public-sdk/Batch.mapping.txt
+node_modules/
+
+# Recommended ignore from Gradle
+**/.idea/dataSources.*
+**/.idea/inspectionProfiles
+**/.idea/misc.xml
+**/.idea/gradle.xml
+**/.idea/modules.xml
+**/.idea/tasks.xml
+**/.idea/workspace.xml
+**/.idea/kotlinc.xml
+**/.idea/uiDesigner.xml
+
+**/.idea/dictionaries
+**/.idea/libraries
+**/.idea/caches
+
+**/*.iml
+**/.idea/saveactions_settings.xml
+**/.idea/assetWizardSettings.xml
+**/.idea/jarRepositories.xml
